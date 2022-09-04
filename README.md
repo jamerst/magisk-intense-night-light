@@ -1,5 +1,10 @@
 # Intense Night Light
 Magisk module to make Night Light feature of AOSP more intense
+
+## There is a newer version of this module for the Sony Xperia 10 IV.
+
+I recently upgraded from my Pixel 3a to a Sony Xperia 10 IV, and a few device-specific changes were needed for this module due to Sony changing the colour temperature curves. The updated module can be found in the `murray` branch.
+
 ### Use at your own risk
 Tested only on a Pixel 3a running Android 10.0.
 
