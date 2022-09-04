@@ -1,6 +1,6 @@
-id=IntenseNightLight
-name=Intense Night Light
-version=v1
+id=IntenseNightLightMurray
+name=Intense Night Light for Sony Xperia 10 IV
+version=v1.0
 versionCode=1
 author=Milkice, ysc3839, jamerst
 description=Allow a more intense blue light filter to be used for Night Light by lowering the minimum colour temperature
